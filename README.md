@@ -7,12 +7,9 @@
 ---
 
 <div align="justify">
-  <p>This dashboard presents global data related to sleep, including average bedtime and wake-up time shifts across different countries. It also showcases specific sleep metrics, such as sleep duration and snore duration, gathered from a participant group.</p>
-
-  <p>This project visualizes global sleep data obtained from an external API, which is refreshed weekly - <a href="https://sandman.sleepcycle.com/data">sandman.sleepcycle.com</a>.<br>The raw data underwent cleaning and transformation within a <a href="https://github.com/1adityakadam/sleep_statistics/blob/main/sleep_statistics.ipynb" >Jupyter Notebook</a>&nbspenvironment, leveraging pandas for data manipulation.<br>The <a href="https://app.powerbi.com/groups/me/reports/60759107-7213-4b4a-a9f9-bd0428cc233c/c09fee923760e383ea4e?experience=power-bi"> Power BI dashboard</a>&nbsppresents key insights as per country such as: Average bedtime shift, Average wake-up time shift, Average Sleep duration, Average Snore duration </p>
 
 
-  <p>The project demonstrates Power BI data modeling using DAX and interactive data exploration with drill-down functionality, offering a comprehensive view of worldwide sleep patterns.</p>
+  <p>This project visualizes global sleep data obtained from an external API, which is refreshed weekly - <a href="https://sandman.sleepcycle.com/data">sandman.sleepcycle.com</a>.<br><br>The raw data underwent cleaning and transformation within a <a href="https://github.com/1adityakadam/sleep_statistics/blob/main/sleep_statistics.ipynb" >Jupyter Notebook</a>&nbsp;environment, leveraging pandas for data manipulation.<br><br>The <a href="https://app.powerbi.com/groups/me/reports/60759107-7213-4b4a-a9f9-bd0428cc233c/c09fee923760e383ea4e?experience=power-bi">Power BI dashboard</a>&nbsp;presents global data related to sleep, including average bedtime and wake-up time shifts across different countries. It also showcases specific sleep metrics, such as sleep duration and snore duration, gathered from a participant group, demonstrates Power BI data modeling using DAX and interactive data exploration with drill-down functionality, offering a comprehensive view of worldwide sleep patterns.</p>
 </div>
 
 ---
