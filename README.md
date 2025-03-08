@@ -1,8 +1,8 @@
-<p align="center">
-  <img width="1068" alt="image" src="https://github.com/user-attachments/assets/560c02c1-afe2-4c8e-b1ce-296d780ccc94"/>
-</p>
-
-<br>
+<div style: text-align="center">
+  
+  ![ew](https://github.com/user-attachments/assets/7ed51d96-7aa8-4fda-8ab8-d251e73a4118) ![eq](https://github.com/user-attachments/assets/88fb9569-9541-4214-b89f-fc7bc5f9d88d)
+  
+</div>
 
 ---
 
@@ -17,7 +17,8 @@
 <br>
 
 <p align="center">
-  <img width="1068" alt="image" src="https://github.com/user-attachments/assets/212dc04e-b3e0-41a7-b245-ed1313f783e9"/>
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/560c02c1-afe2-4c8e-b1ce-296d780ccc94"/>
+  <img width="400" alt="image" src="https://github.com/user-attachments/assets/212dc04e-b3e0-41a7-b245-ed1313f783e9"/>
 </p>
 
 
